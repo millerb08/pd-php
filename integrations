@@ -1,0 +1,9 @@
+Implement Code Challenges
+Check session for all 5 words, redirect to missing word
+Don't allow blank words
+If not starting over, show the last word they entered
+Set up a prompt to ask the user if they really want to delete the story.
+Write additional stories that use the same 5 words we utilized for the original story.
+Create a bank of different stories and save the entire story instead of just the user entered words.
+Use the language tool api to make sure the word conforms to the part of speech requested
+http://wiki.languagetool.org/public-http-api
